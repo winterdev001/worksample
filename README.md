@@ -1,31 +1,19 @@
 # Work Sample for Education Mentor (Web Engineer Course)
 
 ## Overview
-This course will contain basics of web, HTML, CSS ,JS and Ruby, Ruby algorithms and Git / Github, and Ruby on Rails.
+This course is more about Ruby on rails and for those who did not have skills about HTML, CSS ,JS and Ruby, Ruby algorithms and Git / Github, consider checking previous textbook.
 
 ## Introduction
-These are the essential skills that every engineer attending this Web Engineering Course must be familiar with. Different extrenal materials and resaurces are used to narrow down this curribulum.
+These are the essential skills that every engineer attending this Web Engineering Course must be familiar with. Different external materials and resources are used to narrow down this curriculum.
 
 ## Getting started
-I highly recommend to beginners who haven't learned the basics of HTML/CSS/JS and Ruby, Ruby algorithms and Git / Github that each section should be completed in order from top to bottom because some of the skills build on each other and also helps you to understand Ruby/Ruby on rails afterwards.
+I highly recommend to every one that each heading and its sub heading should be completed in order from top to bottom because some of the skills build on each other and also helps you to understand Ruby on rails in no time.
 
 ## References
 
-- [html basics] (https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-
-- [Css basics] (https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-- [Js basics] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-- [Linux commands ] (https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-
-- [Git & Github] (https://guides.github.com/introduction/git-handbook/#basic-git)
-
-- [Ruby ] (https://www.ruby-lang.org/en/documentation/)
-
-- [Rails ] (https://guides.rubyonrails.org/getting_started.html)
+- [Rails ](https://guides.rubyonrails.org/getting_started.html)
 
 ## Final Words
-Learning how to code is quite challenging but with the right material and structure it is very doable.
+Learning how to code is quite challenging but with the right material and structure it is very doable.<br/>
 Good luck with your journey and happy coding!
 
