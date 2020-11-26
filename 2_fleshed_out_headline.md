@@ -17,12 +17,18 @@ More headings added to clarify, expand and help understand Ruby on Rails textboo
  * Create and Configure GitHub Account
  * Install Rails, Yarn
  * Important Rails Commands
-    * Rails new \[name\]
-    * Rails server
+    * Rails new \[project_name\] : 
+      >Creates a new Rails applications in subdirectory \[project_name\] 
+    * Rails server :
+      >tarts up a Web server on port 3000 running the current application; log messages from the        server will appear on standard output.
     * rails generate scaffold name attribute:type
+      >The scaffold command magically generates all the common things needed for a new resource for you! This includes controllers, models and views. It also creates the following basic actions: create a new resource, edit a resource, show a resource, and delete a resource.
     * rake db:migrate
+      >When you add a new migration, for example by creating a new scaffold, the migration has to be applied to your database. The command is used to update your database.
     * bundle install
+      >If you just added a new gem to your Gemfile you should run bundle install to install it. Don't forget to restart your server afterwards!
     * rake routes
+      >Shows complete list of available routes in your application.
  * Create the Application
  * Scaffolding
  * Start Up Your App
